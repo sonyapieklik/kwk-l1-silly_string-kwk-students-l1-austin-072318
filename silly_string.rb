@@ -33,7 +33,7 @@ bigger_word = big_word.insert(0,"wow mom") # Use String concatenation to add "wo
 
 new_letter_count = bigger_word.size
 
-puts "There are now" + new_letter_count +"letters in " + bigger_word
+puts "There are now  #{new_letter_count} letters in #{bigger_word}"
 
 # Challenge 6: Capitalize this sentence properly
 
